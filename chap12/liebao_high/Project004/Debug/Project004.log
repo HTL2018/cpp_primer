@@ -1,0 +1,3 @@
+﻿  demo004.cpp
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project004\demo004.cpp(64): warning C4101: “scr”: 未引用的局部变量
+  Project004.vcxproj -> E:\Spoon-Knife\cpp_primer\chap12\liebao_high\Debug\Project004.exe

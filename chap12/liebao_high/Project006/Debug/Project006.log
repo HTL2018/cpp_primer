@@ -1,0 +1,4 @@
+﻿  demo006.cpp
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project006\demo006.cpp(83): warning C4101: “ht”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project006\demo006.cpp(86): warning C4101: “sb”: 未引用的局部变量
+  Project006.vcxproj -> E:\Spoon-Knife\cpp_primer\chap12\liebao_high\Debug\Project006.exe

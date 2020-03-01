@@ -1,0 +1,3 @@
+﻿  demo007.cpp
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project007\demo007.cpp(53): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+  Project007.vcxproj -> E:\Spoon-Knife\cpp_primer\chap12\liebao_high\Debug\Project007.exe
