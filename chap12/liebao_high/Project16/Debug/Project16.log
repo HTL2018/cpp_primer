@@ -1,0 +1,4 @@
+﻿  016.cpp
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project16\016.cpp(73): warning C4101: “cat”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project16\016.cpp(72): warning C4101: “dog”: 未引用的局部变量
+  Project16.vcxproj -> E:\Spoon-Knife\cpp_primer\chap12\liebao_high\Debug\Project16.exe
