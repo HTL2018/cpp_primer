@@ -1,0 +1,6 @@
+﻿  020.cpp
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project20\020.cpp(10): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project20\020.cpp(11): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project20\020.cpp(29): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project20\020.cpp(39): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  Project20.vcxproj -> E:\Spoon-Knife\cpp_primer\chap12\liebao_high\Debug\Project20.exe
