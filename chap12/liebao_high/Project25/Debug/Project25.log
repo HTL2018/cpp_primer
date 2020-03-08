@@ -1,0 +1,4 @@
+﻿  025.cpp
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project25\025.cpp(78): warning C4101: “a”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project25\025.cpp(79): warning C4101: “d”: 未引用的局部变量
+  Project25.vcxproj -> E:\Spoon-Knife\cpp_primer\chap12\liebao_high\Debug\Project25.exe
