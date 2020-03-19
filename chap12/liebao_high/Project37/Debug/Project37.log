@@ -1,0 +1,5 @@
+﻿  037.cpp
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project37\037.cpp(178): warning C4101: “e”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project37\037.cpp(182): warning C4101: “e”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project37\037.cpp(186): warning C4101: “e”: 未引用的局部变量
+  Project37.vcxproj -> E:\Spoon-Knife\cpp_primer\chap12\liebao_high\Debug\Project37.exe
