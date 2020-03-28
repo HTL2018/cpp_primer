@@ -1,0 +1,7 @@
+﻿  043.cpp
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project43\043.cpp(15): warning C4101: “cat”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project43\043.cpp(109): warning C4101: “y”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project43\043.cpp(98): warning C4101: “dog”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project43\043.cpp(108): warning C4101: “x”: 未引用的局部变量
+  demo.c
+  Project43.vcxproj -> E:\Spoon-Knife\cpp_primer\chap12\liebao_high\Debug\Project43.exe

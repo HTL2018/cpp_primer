@@ -1,0 +1,9 @@
+﻿  041.cpp
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project41\041.cpp(47): warning C4101: “d1”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project41\041.cpp(50): warning C4101: “q”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project41\041.cpp(42): warning C4101: “dog”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project41\041.cpp(52): warning C4101: “ant”: 未引用的局部变量
+e:\spoon-knife\cpp_primer\chap12\liebao_high\project41\041.cpp(48): warning C4101: “d2”: 未引用的局部变量
+  bs.cpp
+  正在生成代码...
+  Project41.vcxproj -> E:\Spoon-Knife\cpp_primer\chap12\liebao_high\Debug\Project41.exe
